@@ -2,7 +2,7 @@
 
 const AboutSection = () => {
     return (
-        <div className="w-full min-h-screen bg-image">
+        <div className="w-full min-h-screen bg-image" id="AboutSection">
             <div className='max-w-7xl mx-auto flex flex-col lg:flex-row items-center justify-between lg:py-10 py-0 px-10'>
                 <div className='h-[500px] flex items-center'>
                     <h2 className='text-[90px] font-bold tracking-tight text-[#9900ff]'>

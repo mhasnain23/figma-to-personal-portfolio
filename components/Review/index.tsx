@@ -4,7 +4,7 @@ import { AiOutlineArrowLeft, AiOutlineArrowRight } from 'react-icons/ai';
 // Main component function
 export default function ReviewSection() {
     return (
-        <section className="bg-gray-100 py-12 px-4 bg-image">
+        <section className="bg-gray-100 py-12 px-4 bg-image" id='ReviewSection'>
             <h2 className="text-[70px] font-extrabold text-[#9900ff] text-center mb-8">Review</h2>
             <div className="flex justify-center items-center gap-4">
 

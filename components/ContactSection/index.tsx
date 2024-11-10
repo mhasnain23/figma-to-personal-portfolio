@@ -1,7 +1,7 @@
 // Main component function
 export default function Contact() {
     return (
-        <section className="min-h-screen bg-gray-100 flex flex-col justify-between items-center py-8 px-4 bg-image">
+        <section className="min-h-screen bg-gray-100 flex flex-col justify-between items-center py-8 px-4 bg-image" id="Contact">
             <div className="w-full max-w-6xl mx-auto flex flex-col h-[600px] lg:flex-row items-center justify-between">
 
                 {/* Contact Form */}

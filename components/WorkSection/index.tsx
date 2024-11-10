@@ -5,7 +5,7 @@ import { AiOutlineArrowRight } from 'react-icons/ai'; // Icon for the arrow
 // Main component function
 export default function WorkSection() {
     return (
-        <section className="bg-gray-100 py-12 px-4 bg-image">
+        <section className="bg-gray-100 py-12 px-4 bg-image" id='WorkSection'>
             <h2 className="text-[70px] font-extrabold text-[#9900ff] text-center mb-8">Work</h2>
             <div className="flex flex-col md:flex-row justify-center gap-8">
 

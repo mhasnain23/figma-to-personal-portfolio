@@ -13,19 +13,19 @@ export const navMenuItems: {
         },
         {
             text: "About",
-            path: "/about"
+            path: "#AboutSection"
         },
         {
             text: "Work",
-            path: "/work"
+            path: "#WorkSection"
         },
         {
             text: "Testimonial",
-            path: "/testimonial"
+            path: "#ReviewSection"
         },
         {
             text: "Contact",
-            path: "/contact"
+            path: "#Contact"
         },
     ]
 
